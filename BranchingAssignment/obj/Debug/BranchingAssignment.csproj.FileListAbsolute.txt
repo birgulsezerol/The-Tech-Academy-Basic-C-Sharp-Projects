@@ -1,0 +1,8 @@
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\bin\Debug\BranchingAssignment.exe.config
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\bin\Debug\BranchingAssignment.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\bin\Debug\BranchingAssignment.pdb
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.AssemblyReference.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\obj\Debug\BranchingAssignment.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\obj\Debug\BranchingAssignment.pdb
