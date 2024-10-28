@@ -1,0 +1,8 @@
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\bin\Debug\Method Class Assignment.exe.config
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\bin\Debug\Method Class Assignment.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\bin\Debug\Method Class Assignment.pdb
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\obj\Debug\Method Class Assignment.csproj.AssemblyReference.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\obj\Debug\Method Class Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\obj\Debug\Method Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\obj\Debug\Method Class Assignment.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\obj\Debug\Method Class Assignment.pdb
